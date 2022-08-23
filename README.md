@@ -1,1 +1,1 @@
-# Interview_perp_DBMS
+# Interview_prep_DBMS
