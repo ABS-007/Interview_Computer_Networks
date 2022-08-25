@@ -1,3 +1,4 @@
-# Interview_prep_DBMS
+# Interview_Computer_Networks
 
-Roadmap Link- https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo
+Interview Questions-
+https://www.interviewbit.com/computer-network-mcq/#identify-the-layer-which-is-responsible-for-data-translating
