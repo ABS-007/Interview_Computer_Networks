@@ -3,8 +3,11 @@
 Interview Questions-
 https://www.interviewbit.com/computer-network-mcq/#identify-the-layer-which-is-responsible-for-data-translating
 
+#Last minute Notes-
 
-# Computer-networks
+https://www.geeksforgeeks.org/last-minute-notes-computer-network/amp/
+
+# Computer-networks-
 
 What is the network?
 
